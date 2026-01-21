@@ -5,7 +5,7 @@ const Container = () => {
         <>
             {/* JUMBOTRON FULL WIDTH */}
             <div className="container">
-                <div className="p-5 mb-4 bg-light rounded-3">
+                <div className="p-5 mb-4 bg-dark bg-opacity-10 ">
                     <h1 className="display-4">A Warm Welcome!</h1>
 
                     <p className="lead">
