@@ -11,9 +11,9 @@ const Card = ({ title }) => {
           500 x 325
         </div>
         <div className="card-body">
-          <h5 className="card-title">{title}</h5>
+          <h5 className="card-title">Card title</h5>
           <p className="card-text">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt perspiciatis ab impedit voluptatum quia.
           </p>
           <a href="#" className="btn btn-primary">
             Find Out More!

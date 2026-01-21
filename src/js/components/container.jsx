@@ -3,7 +3,7 @@ import Card from "./card";
 const Container = () => {
     return (
         <>
-            {/* JUMBOTRON FULL WIDTH */}
+            {/* JUMBOTRON */}
             <div className="container">
                 <div className="p-5 mb-4 bg-dark bg-opacity-10 ">
                     <h1 className="display-4">A Warm Welcome!</h1>
@@ -24,10 +24,10 @@ const Container = () => {
             {/* CARDS */}
             <div className="container my-5">
                 <div className="row g-4">
-                    <Card title="Card title" />
-                    <Card title="Card title" />
-                    <Card title="Card title" />
-                    <Card title="Card title" />
+                    <Card  />
+                    <Card  />
+                    <Card  />
+                    <Card  />
                 </div>
             </div>
         </>
